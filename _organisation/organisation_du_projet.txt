@@ -1,0 +1,37 @@
+- projet_blog
+	- admin/ (backoffice)
+		- gestion_categorie.php (creation / suppression / modification)
+		- gestion_mot_cle.php (creation / suppression / modification)
+		- gestion_article.php (creation / suppression / modification)
+		- gestion_membre.php (creation / suppression / modification)
+		- gestion_avatar.php (creation / suppression / modification)
+	
+	- css/
+		- style.css
+		- bootstrap.min.css
+	
+	- js/
+		- script.js
+		- bootstrap.min.js
+		
+	- inc/
+		- init.inc.php (initialisation du site : connexion BDD, Constantes ...)
+		- fonctions.inc.php (nos fonctions utilisateur)
+		- header.inc.php
+		- footer.inc.php
+		- nav.inc.php
+		
+	- img/
+		- avatar/
+		- article/
+		
+	- template.php
+	
+	- index.php
+	- page_article.php
+	- connexion.php
+	- inscription.php
+	- contact.php
+	- profil.php
+	
+		
